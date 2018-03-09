@@ -53,6 +53,7 @@ public class ClassWxample1 {
 	@AfterClass
 	public void afterclass(){
 		System.out.println("-------afterclass Example3 class-------");
+		System.out.println("-------afterclass Example3 class-------and test is close");
 		driver.close();
 	}
 
